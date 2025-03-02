@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  const apiUrl = "https://script.googleusercontent.com/macros/echo?user_content_key=3xlCXpfP35Gq84QY3QpIC0BDSb7uvslo7mHOxNBEqBRSApekXx-ogrjO7qzO0NwmJTH76qlArpUXqppO48FMBfAqNsRiT8Y6m5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnPDv-a7Qguw6xxCVRrsC7E1Ma_3rYyzvYez67M9zFpy_NLuxd4u5MUV_rxe2sx9tHA&lib=M0C_HHFrvbxCbGI2d8IdVPLMrTw-mMl0u";
+  const apiUrl = "https://script.google.com/macros/s/AKfycbxisdPgLf46dfeZB9LLZTqsQzd0m9x60-sZoJOmR5U/dev";
 
   if ($("#portfolio-list").length) {
       showPortfolioList();
